@@ -3,5 +3,5 @@ venv1/*
 *.pdf
 ckpt/*
 .idea/*
-.DS_Store/*
+.DS_Store
 *.docx
