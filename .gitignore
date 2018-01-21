@@ -1,7 +1,9 @@
 raw_data/*
+.ipynb_checkpoints
 venv1/*
 *.pdf
 ckpt/*
 .idea/*
 .DS_Store
 *.docx
+pull.sh
