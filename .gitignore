@@ -2,4 +2,6 @@ raw_data/*
 venv1/*
 *.pdf
 ckpt/*
+.idea/*
+.DS_Store/*
 *.docx
